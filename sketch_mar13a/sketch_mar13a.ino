@@ -1,7 +1,8 @@
 база дле программ
 
-void setup() {
- 
+void setup()  
+{
+ //GGwp
 }
 
 void loop() {
